@@ -1,6 +1,7 @@
 # Digital Clock
 
-![Digital Clock Preview](images/digital-clock-preview.png)
+![Digital Clock Preview](![Screenshot 2024-03-04 at 11 49 14 PM](https://github.com/Akshat2634/LiveClock/assets/72593375/197df25a-96c5-43d0-be49-f06ae6b5e0df)
+)
 
 ## Overview
 
@@ -14,7 +15,8 @@ This is a simple digital clock web application developed using HTML, CSS, and Ja
 
 ## Preview
 
-![Digital Clock Preview](images/digital-clock-preview.png)
+![Digital Clock Preview](![Screenshot 2024-03-04 at 11 49 14 PM](https://github.com/Akshat2634/LiveClock/assets/72593375/a4905ed1-7e26-435b-9473-bdb68ae2025e)
+)
 
 ## Usage
 
